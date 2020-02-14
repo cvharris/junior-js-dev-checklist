@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watchAll --coverage=false"
+    "test": "jest",
+    "test:local": "jest --watchAll --coverage=false"
   },
   "author": "cvharris",
   "license": "ISC",

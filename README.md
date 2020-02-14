@@ -6,7 +6,7 @@ Collection of tests covering a small array of topics any junior javascript devel
 
 ## How It Works
 
-1. Fork the repof
+1. Fork the repo
 2. Branch off master
 3. Fix broken tests
 4. Make a PR to your `master`
