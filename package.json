@@ -1,0 +1,19 @@
+{
+  "name": "junior-developer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --coverage=false"
+  },
+  "author": "cvharris",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^25.1.2",
+    "eslint": "^6.8.0",
+    "jest": "^25.1.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
