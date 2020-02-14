@@ -83,6 +83,7 @@ All this said, these tests are somewhat basic. I don't claim to be an expert on 
 - [ ] On `npm install`, protect master branch in Github (some script that hits Github's API)
 - [ ] Before tests run, check if there are new commits from upstream
 - [ ] Write Github actions that run tests before branches can merge
+- [ ] Change Github action to run tests that match name or pattern of branch (ex. on push to '/basics/' branch run `basics.test.js` only)
 - [ ] Create a test report that resembles a checklist that developers can save
 - [ ] Add pre-commit hook to lint files
 - [ ] Add React folder and tests
